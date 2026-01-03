@@ -1,0 +1,15 @@
+# Ignore everything except start.cmd - all other folders are created using the script
+crl/
+newcerts/
+private/
+requests/
+BlueAlLearning.crt
+index.txt
+index.txt.attr
+index.txt.attr.old
+index.txt.old
+serial
+serial.old
+*.pem
+*.pfx
+*.crt
